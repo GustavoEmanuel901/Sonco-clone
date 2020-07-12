@@ -1,0 +1,38 @@
+.white-house {
+    background-color: #ebebeb;
+    height: 680px;
+}
+
+.white-house .white-house-text h1 {
+    top: 6250px;
+    left: 4.4%;
+}
+
+.white-house .white-house-text p {
+    top: 6360px;
+    left: 4.4%;
+}
+
+.white-house .white-house-text button {
+    margin-top: 440px;
+    margin-left: 4.4%;
+}
+
+
+.white-house .white-house-images img:nth-child(1){
+    position: absolute;
+    top: 6150px;
+    left: 4.4%;
+}
+
+.white-house .white-house-images img:nth-child(2){
+    position: absolute;
+    left: 45%;
+    top: 6150px;
+}
+
+.white-house .white-house-images img:nth-child(3){
+    position: absolute;
+    left: 35%;
+    top: 6470px;
+}

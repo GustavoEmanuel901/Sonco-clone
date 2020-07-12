@@ -1,0 +1,135 @@
+
+.header {
+    width: 100%;
+}
+
+.header .red {
+    background-color: #e62332;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+    height: 30px;
+    padding: 15px;
+}
+
+.header .red  a {
+    margin: 0 15px;
+    font-size: 13px;
+    text-decoration: none;
+    color: #fff;
+    transition-duration: 400ms;
+}
+
+.header .red a:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.header .red #about {
+    background-color: #042e59;
+    color: #fff;
+    margin-top: -20px;
+    padding: 7px;
+}
+
+/*Contact*/
+
+.header .Contact {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 96px;
+}
+
+.header .Contact img#logo {
+    width: 178px;
+    height: 68px;
+    margin: 0 15px;
+}
+
+.header .Contact img#Est {
+    width: 41px;
+    height: 53px;
+    margin: 0 20px;
+}
+
+.header .Contact input {
+    width: 586px;
+    height: 36px;
+    opacity: 0.6;
+    border-radius: 3px;
+    font-size: 16px;
+    background-color: #f0f1f1;
+    background-image: url('../assets/magnifying-glass.png');
+    background-repeat: no-repeat;
+    background-position-x: 550px;
+    background-position-y: center;
+}
+
+
+.header .Contact span {
+    font-size: 14;
+    font-family: "Myriad Pro", sans-serif;
+    color: rgb(3, 46, 90);
+    text-transform: uppercase;
+    text-align: center;
+    margin-left: 20px;
+}
+
+.header .Contact .icons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.header .Contact .icons i img {
+    width: 23px;
+    height: 29px;
+    margin: 0 15px;
+}
+
+.header .Contact .icons i span {
+    font-size: 10px;
+    margin-right: 15px;
+}
+
+.header .options  {
+    margin-top: 60px;
+}
+
+.header .options ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    flex-grow: 10;
+    list-style: none;
+}
+
+.header .options ul li {
+    margin: 0 10px;
+    font-size: 16px;
+    width: 105px;
+    color: rgb(112, 111, 111);
+    transition-duration: 400ms;
+}
+
+.header .options ul li span {
+    font-size: 12px;
+    color: rgb(156, 156, 156);
+}
+
+.header .options ul li:hover {
+    color: rgb(202, 201, 201);
+    cursor: pointer;
+
+}
+
+
+
+
+
+

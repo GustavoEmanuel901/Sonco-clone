@@ -1,0 +1,40 @@
+@media (max-width: 570px) { 
+    .footer .white .mobile .list-mobile ul {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        align-items: center;
+        justify-content: center;
+        list-style: none;
+        gap: 10px;
+        margin-top: 120px;
+        margin-left: 20px;
+    }
+
+    .footer .white .mobile #request {
+        width: 80%;
+        height: 40px;
+        margin-right: 0;
+        margin-top: 30px;
+        color: #fff;
+        background-color: #ff1c2f;
+        border: 0;
+        border-radius: 3px;
+        /*transform: rotate(90deg);*/
+    }
+
+    .footer .white .mobile #chat {
+        border: 1;
+        border-radius: 5px;
+        margin-left: 35%;
+        width: 25%;
+        height: 40px;
+        margin-top: 30px;
+        margin-bottom: 20px;
+        background-color: #aaa;
+    }
+
+    .footer .white .white-image img {
+        top: 6950px;
+        left: 100px;
+    }
+}

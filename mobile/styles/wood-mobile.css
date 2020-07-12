@@ -1,0 +1,35 @@
+@media (max-width: 570px) { 
+    .wood {
+        height: 710px;
+    }
+
+
+    .wood .wood-images img:nth-child(1) {
+        position: absolute;
+        top: 5000px;
+        left: 10%;
+    }
+
+    .wood .wood-images img:nth-child(3){
+        position: absolute;
+        top: 5125px;
+        left: 10%;
+        width: 320px;
+    }
+    
+    .wood .mobile .wood-text-mobile h1 {
+        left: 4.4%;
+        top: 5300px;
+    }
+
+    .wood .mobile .wood-text-mobile p {
+        left: 4.4%;
+        top: 5370px;
+    }
+
+    .wood .mobile .wood-text-mobile button {
+        position: absolute;
+        left: 4.4%;
+        top: 5450px;
+    }
+}

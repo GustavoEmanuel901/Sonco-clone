@@ -1,0 +1,36 @@
+.wood {
+    height: 750px;
+}
+
+.wood .wood-images img:nth-child(1) {
+    position: absolute;
+    top: 5400px;
+    left: 20%;
+}
+
+.wood .wood-images img:nth-child(2){
+    position: absolute;
+    top: 5400px;
+    left: 4.4%
+}
+
+.wood .wood-images img:nth-child(3){
+    position: absolute;
+    top: 5730px;
+    left: 10%
+}
+
+.wood .wood-text h1 {
+    left: 60%;
+    top: 5400px;
+}
+
+.wood .wood-text p {
+    left: 60%;
+    top: 5570px;
+}
+
+.wood .wood-text button {
+    margin-left: 60%;
+    margin-top: 440px;
+}

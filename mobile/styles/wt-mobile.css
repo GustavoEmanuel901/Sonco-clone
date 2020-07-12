@@ -1,0 +1,36 @@
+@media (max-width: 570px) { 
+    .wt .wt-images img:nth-child(1){
+        left: 25%;
+        top: 2550px;
+    }
+    
+    .wt .wt-images img:nth-child(4){
+        left: 12%;
+        top: 2790px;
+        width: 320px;
+    }
+
+    .wt .wt-images img:nth-child(5){
+        left: 13%;
+        top: 2798px;
+        width: 315px;
+    }
+
+    .wt .mobile .wt-text-mobile h1 {
+        left: 4.4%;
+        top: 3050px;
+    }
+
+    .wt .mobile .wt-text-mobile p {
+        text-transform: uppercase;
+        left: 4.4%;
+        top: 3125px;
+    }
+
+    .wt .mobile .wt-text-mobile button {
+        position: absolute;
+        left: 4.4%;
+        top: 3230px;
+    }
+
+}

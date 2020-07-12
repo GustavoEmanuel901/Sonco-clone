@@ -1,0 +1,42 @@
+.harley {
+    height: 1000px;
+}
+
+.harley .harley-text h1 {
+    left: 4.4%;
+    top: 6900px;
+}
+
+.harley .harley-text p {
+    left: 4.4%;
+    top: 7000px;
+}
+
+.harley .harley-text button {
+    margin-left: 4.4%;
+    margin-top: 415px;
+}
+
+.harley .harley-images img:nth-child(1){
+    position: absolute;
+    top: 6900px;
+    left: 85%;
+}
+
+.harley .harley-images img:nth-child(2){
+    position: absolute;
+    left: 40%;
+    top: 6880px;
+}
+
+.harley .harley-images img:nth-child(3){
+    position: absolute;
+    left: 54%;
+    top: 7100px;
+}
+
+.harley .harley-images img:nth-child(4){
+    position: absolute;
+    top: 7350px;
+    left: 4.4%;
+}

@@ -1,0 +1,34 @@
+@media (max-width: 570px) {
+    
+    .vitrine {
+        background: url('../../assets/Vitrine-Mobile.png');
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 444px;
+    }
+
+    .vitrine .mobile .text-mobile h3 {
+        position: absolute;
+        left: 14%;
+        color: #ddd;
+        font-size: 16px;
+        top: 430px;
+    }
+
+    .vitrine .mobile .text-mobile span {
+        color: #fff;
+        text-transform: uppercase;
+        font-weight: bold;
+        font-size: 16px;
+        text-align: left;
+        line-height: 1.1;
+        position: absolute;
+        top: 470px;
+        left: 14%;
+    } 
+
+    .vitrine .infos {
+        top: 520px;
+        left: 12%;
+    }
+}

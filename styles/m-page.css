@@ -1,0 +1,37 @@
+.m {
+    background-color: #ebebeb;
+    height: 800px;
+}
+
+.m .m-text h1 {
+    left: 4.4%;
+    top: 4600px;
+}
+
+.m .m-text p {
+    left: 4.4%;
+    top: 4740px;
+}
+
+.m .m-text button {
+    margin-left: 4.4%;
+    margin-top: 340px;
+}
+
+.m .m-images img:nth-child(1){
+    position: absolute;
+    left: 40%;
+    top: 4600px;
+}
+
+.m .m-images img:nth-child(2){
+    position: absolute;
+    left: 50%;
+    top: 4600px;
+}
+
+.m .m-images img:nth-child(3){
+    position: absolute;
+    top: 4950px;
+    width: 1225px;
+}

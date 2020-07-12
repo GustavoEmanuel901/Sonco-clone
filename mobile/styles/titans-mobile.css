@@ -1,0 +1,30 @@
+@media (max-width: 570px) { 
+    .titans .images-titans img:nth-child(2){
+        left: 25%;
+        top: 1700px;
+    }
+
+    .titans .images-titans img:nth-child(1){
+        left: 8%;
+        width: 320px;
+        top: 1850px;
+    }
+
+    .titans .mobile .titans-text-mobile h1 {
+        top: 2150px;
+        left: 4.4%;
+    }
+
+    .titans .mobile .titans-text-mobile p {
+        text-transform: uppercase;
+        left: 4.4%;
+        top: 2220px;
+    }
+
+    .titans .mobile .titans-text-mobile button {
+        position: absolute;
+        top: 2330px;
+        left: 4.4%;
+    }
+
+}

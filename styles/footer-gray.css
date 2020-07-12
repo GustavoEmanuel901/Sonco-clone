@@ -1,0 +1,114 @@
+.footer .gray{
+    padding-top: 100px;
+    background-color: #ebebeb;
+}
+
+
+.footer .gray .social-networks {
+    margin-left: 44px;
+    width: 250px;
+}
+
+.footer .gray .social-networks h2 {
+    text-transform: uppercase;
+    position: absolute;
+    left: 4.4%;
+    top: 7790px;
+}
+
+.footer .gray .social-networks i {
+    display: inline;
+}
+
+.footer .gray .social-networks i img {
+    width: 50px;
+    height: 50px;
+    margin-left: 4.4px;
+}
+
+.footer .gray .email {
+    margin-left: 30%;
+    margin-top: -90px;
+}
+
+.footer .gray .email h2 {
+    text-transform: uppercase;
+    position: absolute;
+    left: 37%;
+    top: 7790px;
+}
+
+.footer .gray .email form {
+    margin-top: 25px;
+    margin-left: 10%;
+    height: 200px;
+    width: 300px;
+}
+
+.footer .gray .email form input {
+    width: 200px;
+    height: 30px;
+    font-size: 16px;
+}
+
+.footer .gray .email form button {
+    color: #fff;
+    height: 30px;
+    background-color: #ff1c2f;
+    border: 0;
+    width: 70px;
+    border-radius: 3px;
+}
+
+.footer .gray .email form button:hover,
+.footer .gray .request button:hover{
+    cursor: pointer;
+    background-color: #fd515f;
+}
+
+.footer .gray .email form p {
+    margin: 7px 0;
+    color: #666;
+}
+
+.footer .gray .email form span {
+    font-size: 14px;
+    color: #888;
+}
+
+
+.footer .gray .request img {
+    position: absolute;
+    left: 68%;
+    top: 7790px;
+    width: 25px;
+    height: 25px;
+}
+
+.footer .gray .request h2 {
+    text-transform: uppercase;
+    position: absolute;
+    left: 72%;
+    top: 7790px;
+}
+
+.footer .gray .request p {
+    width: 250px;
+    line-height: 1.8;
+    position: absolute;
+    top: 7830px;
+    left: 833px;
+    color: #666;
+    text-align: left;
+}
+
+.footer .gray .request button {
+    width: 75px;
+    height: 25px;
+    position: absolute;
+    top: 7950px;
+    left: 833px;
+    color: #fff;
+    background-color: #ff1c2f;
+    border: 0;
+}

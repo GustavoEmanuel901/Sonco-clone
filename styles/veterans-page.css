@@ -1,0 +1,43 @@
+.veteran {
+    height: 650px;
+}
+
+.veteran .images-veteran img:nth-child(1){
+    position: absolute;
+    top: 3950px;
+    left: 700px;
+}
+
+.veteran .images-veteran img:nth-child(2){
+    position: absolute;
+    top: 3950px;
+    left: 4.4%;
+
+    width: 550px;
+}
+
+.veteran .images-veteran img:nth-child(3){
+    position: absolute;
+    top: 4230px;
+    left: 20%;
+
+}
+
+.veteran .text-veteran h1 {
+    left: 700px;
+    top: 4050px;
+}
+
+.veteran .text-veteran p {
+    left: 700px;
+    top: 4170px;
+}
+
+.veteran .text-veteran button {
+    margin-left: 700px;
+    margin-top: 470px;
+}
+
+
+
+  

@@ -1,0 +1,47 @@
+.titans {
+    margin-top: 40px;
+    margin-bottom: 100px;
+    height: 700px;
+}
+
+.titans .images-titans img:nth-child(1){
+    position: absolute;
+    left: 25%;
+    top: 2200px;
+}
+
+.titans .images-titans img:nth-child(2){
+    position: absolute;
+    left: 4.4%;
+    top: 2250px;
+}
+
+.titans .images-titans img:nth-child(3){
+    position: absolute;
+    left: 2.5%;
+    top: 2370px;
+}
+
+.titans .images-titans img:nth-child(4){
+    position: absolute;
+    left: 15%;
+    top: 2500px;
+}
+
+.titans .titans-text h1 {
+    left: 67%;
+    top: 2200px;
+}
+
+.titans .titans-text p {
+    left: 67%;
+    top: 2370px;
+}
+
+.titans .titans-text button {
+    margin-left: 67%;
+    margin-top: 380px;
+}
+
+
+

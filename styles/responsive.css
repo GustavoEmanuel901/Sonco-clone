@@ -1,0 +1,248 @@
+@media (min-width: 2550px){
+
+    .header .Contact input {
+        width: 40%;
+        background-position-x: right;
+    }
+    
+    .vitrine {
+        background-position-x: 340px;
+    }
+
+    .clients .introduction p {
+        left: 45%;
+    }
+
+    .clients .clients-list ul li {
+        align-items: center;
+        margin-left: 20%;
+        justify-content: space-around;
+    }
+
+    .clients .client-stray img:nth-child(1){
+        left: 80%;
+    }
+    
+    .clients .client-stray img:nth-child(2) {
+        left: 75%;
+    }
+    
+    .clients .client-stray img:nth-child(3){
+        left: 65%;
+    }
+
+    .clients .client-text h1,
+    .clients .client-text p{
+        left: 20%;
+    }
+    
+    .clients .client-text button {
+        margin-left: 20%;
+    }
+
+    .clients .client-video {
+        margin-left: 18%;
+    }
+
+    .titans .titans-text h1,
+    .titans .titans-text p{
+        left: 65%;
+    }
+
+    .titans .titans-text button {
+        margin-left: 65%;
+    }
+    
+    .titans .images-titans img:nth-child(2),
+    .titans .images-titans img:nth-child(3){
+        left: 15%;
+    }
+        
+        
+    .titans .images-titans img:nth-child(4){
+        left: 22%
+    }
+
+    .wt .wt-text h1 {
+        left: 4.4%;
+    }
+    
+    .wt .wt-text p {
+        left: 4.4%;
+    }
+    
+    .wt .wt-text button {
+        margin-left: 4.4%;
+    }
+    
+    .wt .wt-images img:nth-child(1){
+        left: 50%;
+    }
+    
+    .wt .wt-images img:nth-child(2){
+        left: 60%;
+        width: 589px;
+    }
+    
+    .wt .wt-images img:nth-child(3){
+        left: 60%;
+        top: 3430px;
+        width: 650px;
+        height: 282px;
+    }
+    
+    .wt .wt-images img:nth-child(4){
+        left: 42.5%;
+        top: 3430px;
+    }
+     
+    .wt .wt-images img:nth-child(5) {
+        left: 42.9%;
+        top: 3450px
+    }
+
+    .wt .wt-text p,
+    .wt .wt-text h1 {
+        left: 22%;
+    } 
+
+    .wt .wt-text button {
+        margin-left: 22%;
+        margin-top: 440px;
+    }
+
+    .veteran .images-veteran img:nth-child(1){
+        left: 62%;
+    }
+    
+    .veteran .images-veteran img:nth-child(2){
+        left: 22%;
+        width: 647px;
+    }
+    
+    .veteran .images-veteran img:nth-child(3){
+        left: 35.5%;
+        top: 4290px;
+    }
+    
+    .veteran .text-veteran h1,
+    .veteran .text-veteran p {
+        left: 60%;
+    }
+    
+    .veteran .text-veteran button {
+        margin-left: 60%;
+    }
+
+    .m .m-text h1,
+    .m .m-text p  {
+        left: 22%;
+    }
+    
+    .m .m-text button {
+        margin-left: 22%;
+    }
+    
+    .m .m-images img:nth-child(1){
+        left: 50%;
+    }
+    
+    .m .m-images img:nth-child(2){
+        left: 60%;
+    }
+    
+    .m .m-images img:nth-child(3){
+        width: 1243px;
+        left: 880px;
+        top: 4940px
+    }
+
+    .wood .wood-images img:nth-child(1) {
+        left: 30%;
+    }
+    
+    .wood .wood-images img:nth-child(2){
+        left: 22%
+    }
+    
+    .wood .wood-images img:nth-child(3){
+        left: 25%
+    }
+
+    .white-house .white-house-text h1,
+    .white-house .white-house-text p,
+    .white-house .white-house-images img:nth-child(1){
+        left: 22%;
+    }
+     
+    .white-house .white-house-text button {
+        margin-left: 22%;
+    }
+    
+    
+    .white-house .white-house-images img:nth-child(2){
+        left: 60%;
+    }
+    
+    .white-house .white-house-images img:nth-child(3){
+        left: 55%;
+    }
+    
+    .harley .harley-text h1, 
+    .harley .harley-text p {
+        left: 22%;
+    }
+    
+    .harley .harley-text button {
+        margin-left: 22%;
+    }
+    
+    .harley .harley-images img:nth-child(1){
+        left: 63%;
+    }
+    
+    .harley .harley-images img:nth-child(4){
+        left: 22%;
+    }
+
+    .footer .gray .social-networks {
+        width: 400px;
+    }
+    
+    .footer .gray .social-networks h2 {
+        left: 5%;
+    }
+    
+    .footer .gray .social-networks i img {
+        margin-left: 10%;
+    }
+    
+    .footer .gray .request {
+        margin-left: 65%;
+    }
+    
+    .footer .gray .request img {
+        left: 68%;
+    }
+    
+    .footer .gray .request h2 {
+        left: 1800px;
+    }
+    
+    .footer .gray .request p {
+        left: 1800px;
+    }
+    
+    .footer .gray .request button {
+        left: 1800px;
+    }
+
+    .footer .white .list ul  {
+        margin-right: 300px;
+    }
+
+    .footer .white .contact ul {
+        margin-right: 600px;
+    }
+}
+

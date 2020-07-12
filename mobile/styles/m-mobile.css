@@ -1,0 +1,38 @@
+@media (max-width: 570px) { 
+
+    .m {
+        padding-top: 200px;
+        padding-bottom: 30px;
+    }
+    .m .m-images img:nth-child(1){
+        left: 35%;
+        top: 4170px;
+    }
+
+    .m .mobile .image-folder-mobile {
+        background: url('../../assets/m-page/m-folder.png');
+        background-position-x: -200px;
+        background-repeat: no-repeat;
+        height: 280px;
+        position: relative;
+        margin-top: 60px;
+    }
+
+    .m .mobile .m-text-mobile h1 {
+        position: relative;
+        margin-left: 4.4%;
+    }
+
+    .m .mobile .m-text-mobile p {
+        position: relative;
+        text-transform: uppercase;
+        margin-top: 10px;
+        margin-left: 4.4%;
+    }
+
+    .m .mobile .m-text-mobile button {
+        margin-top: 10px;
+        margin-left: 4.4%;
+    }
+
+}

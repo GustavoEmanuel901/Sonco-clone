@@ -1,0 +1,47 @@
+.vitrine {
+    width: 100%;
+    height: 690px;
+    margin-top: 50px;
+    background-image: url('../assets/NewVitrine.png');
+    background-repeat: no-repeat;
+    margin-bottom: 0;
+}
+
+.vitrine .text-main {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: left;
+    line-height: 1.1;
+    position: absolute;
+    top: 740px;
+    left: 30%;
+}
+
+.vitrine .infos {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-around;
+
+    position: absolute;
+    top: 850px;
+    left: 30%;
+}
+
+.vitrine .infos img, 
+.vitrine .infos h6 {
+    margin-left: 15px;
+}
+
+.vitrine .infos h6 {
+    color: #fff;
+}
+
+.vitrine .infos span {
+    color: #ddd;
+}
+
+
+

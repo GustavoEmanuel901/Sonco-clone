@@ -1,0 +1,33 @@
+@media (max-width: 570px) { 
+    .veteran {
+        height: 700px;
+    }
+
+    .veteran .images-veteran img:nth-child(1){
+        top: 3450px;
+        left: 8%;
+    }
+    
+    .veteran .images-veteran img:nth-child(2){
+        top: 3550px;
+        left: 8%;
+    
+        width: 320px;
+    }
+
+    .veteran .mobile .text-veteran-mobile h1 {
+        left: 4.4%;
+        top: 3800px;
+    }
+    
+    .veteran .mobile .text-veteran-mobile p {
+        left: 4.4%;
+        top: 3870px;
+    }
+    
+    .veteran .mobile .text-veteran-mobile button {
+        position: absolute;
+        left: 4.4%;
+        top: 3960px;
+    }
+}

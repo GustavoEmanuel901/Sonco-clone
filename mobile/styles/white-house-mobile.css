@@ -1,0 +1,37 @@
+@media (max-width: 570px) { 
+    .white-house .white-house-images img:nth-child(1){
+        top: 5650px;
+        left: 30%;
+    }
+    
+    .white-house .white-house-images img:nth-child(2){
+        width: 320px;
+        left: 45%;
+        top: 5750px;
+        left: 8%;
+    }
+    
+    .white-house .white-house-images img:nth-child(3){
+        width: 320px;
+        left: 8%;
+        top: 5910px;
+    }
+
+    .white-house .mobile .white-house-text-mobile h1{
+        top: 6100px;
+        left: 4.4%;
+    }
+
+    .white-house .mobile .white-house-text-mobile p {
+        top: 6170px;
+        text-transform: uppercase;
+        left: 4.4%;
+    }
+
+    .white-house .mobile .white-house-text-mobile button {
+        position: absolute;
+        top: 6280px;
+        left: 4.4%;
+    }
+
+}

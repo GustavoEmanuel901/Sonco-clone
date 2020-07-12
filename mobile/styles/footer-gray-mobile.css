@@ -1,0 +1,102 @@
+@media (max-width: 570px) { 
+
+    .footer .mobile .gray-mobile {
+        background-color: #efeae8;
+        padding-top: 20px;
+    }
+
+    .footer .mobile .gray-mobile h2 {
+        text-transform: uppercase;
+    }
+
+    .footer .mobile .gray-mobile ul{
+        display: grid;
+        grid-template-columns: 1fr;
+        align-items: center;
+        justify-content: space-around;
+        margin-top: 80px;
+        margin-left: 15%;
+        list-style: none;
+    }
+
+    .footer .mobile .gray-mobile ul li {
+        margin-bottom: 20px;
+    }
+
+    .footer .gray-mobile .social-networks-mobile i {
+        display: inline;
+    }
+    
+    .footer .gray-mobile .social-networks-mobile i img {
+        width: 50px;
+        height: 50px;
+        margin-left: 4.4px;
+    }
+
+    .footer .mobile .gray-mobile .request-mobile img {
+        width: 25px;
+        height: 25px;
+    }
+
+    .footer .mobile .gray-mobile .email-mobile form {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+
+    .footer .mobile .gray-mobile .email-mobile form input {
+        width: 260px;
+        height: 30px;
+    }
+
+    .footer .mobile .gray-mobile .email-mobile form button {
+        width: 35%;
+        height: 30px;
+        margin-left: 20%;
+        background-color: #ff1c2f;
+        border: 0;
+        color: #fff;
+    }
+    
+    .footer .mobile .gray-mobile .email-mobile form p {
+        margin-left: 15%;
+        margin-top: 10px;
+        color: #ff1c2f;
+    }
+    
+    .footer .mobile .gray-mobile .email-mobile form span {
+        font-size: 14px;
+        margin-left: 27%;
+        color: #999;
+    }
+
+    .footer .mobile .gray-mobile .request-mobile .initial {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .footer .mobile .gray-mobile .request-mobile .initial h2 {
+        margin-left: 10px;
+    }
+
+    .footer .mobile .gray-mobile .request-mobile p {
+        text-align: center;
+        line-height: 1.8;
+        color: #999;
+        margin-top: 10px;
+    }
+
+    .footer .mobile .gray-mobile .request-mobile button {
+        width: 35%;
+        height: 30px;
+        margin-left: 25%;
+        margin-top: 10px;
+        background-color: #ff1c2f;
+        border: 0;
+        color: #fff;
+    }
+
+
+
+
+
+}

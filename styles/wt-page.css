@@ -1,0 +1,56 @@
+.wt {
+    background-color: #ebebeb;
+    height: 900px;
+}
+
+.wt .wt-text h1 {
+    left: 4.4%;
+    top: 3100px;
+}
+
+.wt .wt-text p {
+    left: 4.4%;
+    top: 3240px;
+}
+
+.wt .wt-text button {
+    margin-left: 4.4%;
+    margin-top: 430px;
+}
+
+
+.wt .wt-images img:nth-child(1){
+    position: absolute;
+    left: 460px;
+    top: 3100px;
+}
+
+.wt .wt-images img:nth-child(2){
+    position: absolute;
+    left: 700px;
+    top: 3100px;
+
+    width: 500px;
+    height: 500px;
+}
+
+.wt .wt-images img:nth-child(3){
+    position: absolute;
+    left: 700px;
+    top: 3470px;
+
+    width: 525px;
+    height: 300px;
+}
+
+.wt .wt-images img:nth-child(4){
+    position: absolute;
+    left: 260px;
+    top: 3470px;
+}
+
+.wt .wt-images img:nth-child(5){
+    position: absolute;
+    left: 270px;
+    top: 3490px;
+}
